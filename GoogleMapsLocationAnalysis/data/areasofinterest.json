@@ -1,6 +1,16 @@
 [{
   "name": "Home",
-  "latitutde": 38.8977,
+  "latitude": 38.8977,
   "longitude": -77.0365,
-  "tollerance": 0.1
+  "tolerance": 0.1
+}, {
+  "name": "Work",
+  "latitude": 29.5525,
+  "longitude": -95.09319,
+  "tolerance": 0.5
+}, {
+  "name": "Gym",
+  "latitude": 27.9878,
+  "longitude": 86.9250,
+  "tolerance": 2.0
 }]
